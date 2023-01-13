@@ -1,4 +1,4 @@
-# Interactive Music Player
+# Interactive Music Player (PYGAME)
 
 A music player that plays music based the icon's you click.
 ![](preview.png)
